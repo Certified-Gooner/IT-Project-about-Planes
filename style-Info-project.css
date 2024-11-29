@@ -1,0 +1,41 @@
+body{
+    background-color: #142d4c
+}
+h1{
+    color: #e7eaf6;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+h2{
+    color: #e3e3e3;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #132743;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
+  
