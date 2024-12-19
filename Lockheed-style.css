@@ -1,0 +1,44 @@
+body{
+    background-color: #142d4c;
+    color: white;
+}
+
+h1{
+    color: white;
+    text-shadow: 1px 1px 4px;
+    text-align: center;
+    font-family: arial black;
+}
+
+h2{
+    text-shadow: 1px 1px 3px;
+    font-family: arial black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #132743;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
