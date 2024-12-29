@@ -1,5 +1,6 @@
 body{
     background-color: #142d4c
+    
 }
 h1{
     color: #e7eaf6;
@@ -35,7 +36,64 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
   .active {
     background-color: #04AA6D;
   }
-  
+
+  .container { 
+  display: left; 
+  align-items: center;
+  color: white; 
+  }
+
+  .circle {
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 20px;
+  }
+
+  .circle2 {
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 20px;
+  }
+
+  .circle3 {
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 20px;
+  }
+
+  .footer {
+    color:white;
+    background-color: black;
+  }
+
+  a {
+    color:hotpink;
+  }
